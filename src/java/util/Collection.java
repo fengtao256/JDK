@@ -253,7 +253,7 @@ public interface Collection<E> extends Iterable<E> {
 
     // Modification Operations
 
-    /**
+     /**
      * Ensures that this collection contains the specified element (optional
      * operation).  Returns <tt>true</tt> if this collection changed as a
      * result of the call.  (Returns <tt>false</tt> if this collection does
